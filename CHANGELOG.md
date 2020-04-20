@@ -3,6 +3,14 @@
 
 ### Bug Fixes
 
+* remove polaris-logs from peerdep, add readme ([219e2a2](https://github.com/Enigmatis/polaris-nest-logger/commit/219e2a275fa89e03fe0abba8f365e8bdec733d2d))
+* v7 ([c5a3f06](https://github.com/Enigmatis/polaris-nest-logger/commit/c5a3f0602c9a96f075f34b5b9dd9e7b967086d04))
+
+# [1.0.0-beta.6](https://github.com/Enigmatis/polaris-nest-logger/compare/v1.0.0-beta.5...v1.0.0-beta.6) (2020-04-20)
+
+
+### Bug Fixes
+
 * v7 ([c5a3f06](https://github.com/Enigmatis/polaris-nest-logger/commit/c5a3f0602c9a96f075f34b5b9dd9e7b967086d04))
 
 # [1.0.0-beta.5](https://github.com/Enigmatis/polaris-nest-logger/compare/v1.0.0-beta.4...v1.0.0-beta.5) (2020-04-20)
