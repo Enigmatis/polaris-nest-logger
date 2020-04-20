@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "jest",
-    "build": "tsc",
+    "build": "rimraf dist && tsc",
     "prepare": "npm run build",
     "semantic-release": "semantic-release"
   },
@@ -68,7 +68,8 @@
     "@types/node": "^13.9.1",
     "@nestjs/common": "^7.0.3",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^6.5.4"
+    "rxjs": "^6.5.4",
+    "rimraf": "^2.7.1"
   },
   "peerDependencies": {
     "@nestjs/core": "^7.0.3",
