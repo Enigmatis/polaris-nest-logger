@@ -7,7 +7,7 @@ jobs:
   include:
     # Define the release stage that runs semantic-release
     - stage: test
-      script: npm run test:ci && bash <(curl -Ls https://coverage.codacy.com/get.sh) -r coverage/clover.xml
+      script: npm run test:ci && bash <(curl -Ls https://coverage.codacy.com/get.sh) report -r coverage/lcov.info
     - stage: release
       node_js: lts/*
       # Advanced: optionally overwrite your default `script` step to skip the tests
