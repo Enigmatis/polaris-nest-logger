@@ -1,3 +1,10 @@
+# [1.0.0-beta.7](https://github.com/Enigmatis/polaris-nest-logger/compare/v1.0.0-beta.6...v1.0.0-beta.7) (2020-04-20)
+
+
+### Bug Fixes
+
+* beta 7 ([c959467](https://github.com/Enigmatis/polaris-nest-logger/commit/c959467525f617215231ad4d4e69312fe14e6982))
+
 # [1.0.0-beta.6](https://github.com/Enigmatis/polaris-nest-logger/compare/v1.0.0-beta.5...v1.0.0-beta.6) (2020-04-20)
 
 
