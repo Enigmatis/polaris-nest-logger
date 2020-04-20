@@ -7,7 +7,8 @@
     "outDir": "dist",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "declaration": true
+    "declaration": true,
+    "allowJs": true
   },
   "exclude": [
     "node_modules"
