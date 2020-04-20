@@ -40,6 +40,5 @@ With `registerAsync` method you can provide a factory method that will return yo
     ],
 })
 export class AppModule{}
-
 ```
     
