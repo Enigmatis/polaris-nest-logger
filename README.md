@@ -15,7 +15,7 @@ Want to use polaris-logger in your nest js app?
 You are welcome to use our PolarisNestLoggerModule!
 
 ### Getting started
-- This module has to be used in a nestjs project, so make sure you have one, and that you have installed `@nestjs/core` & `nestjs/common`
+- This module has to be used in a nestjs project, so make sure you have one, and that you have installed `@nestjs/core` & `@nestjs/common`
 - run `npm install @enigmatis/polaris-nest-logger`
 
 ### Using the module
