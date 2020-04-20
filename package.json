@@ -1,0 +1,66 @@
+{
+  "name": "@enigmatis/polaris-nest-logger",
+  "version": "0.1.0",
+  "description": "A module that lets you create a polaris-logger dedicated to NestJs",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "semantic-release": "semantic-release"
+  },
+  "release": {
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      [
+        "@semantic-release/npm",
+        {
+          "npmPublish": true
+        }
+      ],
+      "@semantic-release/github"
+    ],
+    "prepare": [
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      {
+        "path": "@semantic-release/git",
+        "assets": [
+          "package.json",
+          "package-lock.json",
+          "CHANGELOG.md"
+        ],
+        "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+      }
+    ]
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^25.4.0",
+    "jest-junit": "^10.0.0",
+    "ts-jest": "^25.4.0",
+    "typescript": "^3.8.3",
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^7.6.0",
+    "@semantic-release/changelog": "^3.0.6",
+    "@semantic-release/git": "latest",
+    "@nestjs/core": "^7.0.3",
+    "@enigmatis/polaris-logs": "^2.8.2",
+    "@types/node": "^13.9.1",
+    "@nestjs/common": "^7.0.3",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^6.5.4"
+  },
+  "peerDependencies": {
+    "@nestjs/core": "^7.0.3",
+    "@enigmatis/polaris-logs": "^2.8.2",
+    "@nestjs/common": "^7.0.3"
+  }
+}
