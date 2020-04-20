@@ -1,6 +1,6 @@
 <p align="center">
-    <img height="150" src="https://github.com/Enigmatis/polaris-nest-logger/raw/master/polarisen.png" alt="polaris logo" /><br><br>
-    Use polaris-logs easily in nestjs apps!<br><br>
+    <img height="190" src="https://github.com/Enigmatis/polaris-nest-logger/raw/master/polarisen.png" alt="polaris logo" /><br><br>
+    Use <a href="https://github.com/Enigmatis/polaris-logs">polaris-logs</a> easily in nestjs apps!<br><br>
     <img alt="npm (scoped)" src="https://img.shields.io/npm/v/@enigmatis/polaris-nest-logger">
     <img alt="npm (scoped with tag)" src="https://img.shields.io/npm/v/@enigmatis/polaris-nest-logger/beta">
     <img alt="Travis (.org) branch" src="https://img.shields.io/travis/enigmatis/polaris-nest-logger/master">
