@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Enigmatis/polaris-nest-logger/raw/master/polarisen.png" alt="polaris logo" />
+  <img height="150" src="https://github.com/Enigmatis/polaris-nest-logger/raw/master/polarisen.png" alt="polaris logo" />
   
   ![npm (scoped)](https://img.shields.io/npm/v/@enigmatis/polaris-nest-logger)
 </p>
