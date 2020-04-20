@@ -1,4 +1,8 @@
-![Polaris-logo](https://github.com/Enigmatis/polaris-nest-logger/raw/master/polariscoolsm.png)
+<p align="center">
+  <img src="https://github.com/Enigmatis/polaris-nest-logger/raw/master/polarisen.png" alt="polaris logo" />
+  
+  ![npm (scoped)](https://img.shields.io/npm/v/@enigmatis/polaris-nest-logger)
+</p>
 
 # polaris-nest-logger
 
