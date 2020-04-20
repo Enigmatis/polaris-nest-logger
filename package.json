@@ -13,6 +13,10 @@
     "prepare": "npm run build",
     "semantic-release": "semantic-release"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Enigmatis/polaris-nest-logger.git"
+  },
   "release": {
     "plugins": [
       "@semantic-release/commit-analyzer",
