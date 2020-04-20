@@ -1,4 +1,6 @@
-#polaris-nest-logger
+![Polaris-logo](polariscoolsm.png)
+
+# polaris-nest-logger
 
 Want to use polaris-logger in your nest js app?
 
