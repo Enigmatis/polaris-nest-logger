@@ -8,6 +8,8 @@
 
 # polaris-nest-logger
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ec20b6b5120043159d188a5f04aebdac)](https://app.codacy.com/gh/Enigmatis/polaris-nest-logger?utm_source=github.com&utm_medium=referral&utm_content=Enigmatis/polaris-nest-logger&utm_campaign=Badge_Grade_Settings)
+
 Want to use polaris-logger in your nest js app?
 
 You are welcome to use our PolarisNestLoggerModule!
