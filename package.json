@@ -9,6 +9,7 @@
   },
   "scripts": {
     "test": "jest",
+    "test:ci": "jest --coverage --ci --reporters=default --reporters=jest-junit",
     "build": "rimraf dist && tsc",
     "prepare": "npm run build",
     "semantic-release": "semantic-release"
@@ -78,5 +79,10 @@
   "peerDependencies": {
     "@nestjs/core": "^7.0.3",
     "@nestjs/common": "^7.0.3"
+  },
+  "jest-junit": {
+    "suiteName": "Jest Tests",
+    "outputDirectory": "test",
+    "outputName": "junit-test-report.xml"
   }
 }

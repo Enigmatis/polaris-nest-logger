@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Jest Tests" tests="20" failures="0" time="7.393">
+  <testsuite name="PolarisLoggerService" errors="0" failures="0" skipped="0" timestamp="2020-04-20T19:01:16" time="6.265" tests="1">
+    <testcase classname="PolarisLoggerService getLogger returns correct polaris logger" name="PolarisLoggerService getLogger returns correct polaris logger" time="0.028">
+    </testcase>
+  </testsuite>
+  <testsuite name="NestLogger" errors="0" failures="0" skipped="0" timestamp="2020-04-20T19:01:16" time="6.41" tests="19">
+    <testcase classname="NestLogger log polarisLogProperties is sent, handled correctly" name="NestLogger log polarisLogProperties is sent, handled correctly" time="0.004">
+    </testcase>
+    <testcase classname="NestLogger log context message is sent, handled correctly" name="NestLogger log context message is sent, handled correctly" time="0">
+    </testcase>
+    <testcase classname="NestLogger log only message is sent, handled correctly" name="NestLogger log only message is sent, handled correctly" time="0.001">
+    </testcase>
+    <testcase classname="NestLogger error polarisLogProperties is sent, handled correctly" name="NestLogger error polarisLogProperties is sent, handled correctly" time="0">
+    </testcase>
+    <testcase classname="NestLogger error context is sent, handled correctly" name="NestLogger error context is sent, handled correctly" time="0.001">
+    </testcase>
+    <testcase classname="NestLogger error trace is sent, handled correctly" name="NestLogger error trace is sent, handled correctly" time="0">
+    </testcase>
+    <testcase classname="NestLogger error trace and context are sent, handled correctly" name="NestLogger error trace and context are sent, handled correctly" time="0.001">
+    </testcase>
+    <testcase classname="NestLogger error only message is sent, handled correctly" name="NestLogger error only message is sent, handled correctly" time="0">
+    </testcase>
+    <testcase classname="NestLogger warn polarisLogProperties is sent, handled correctly" name="NestLogger warn polarisLogProperties is sent, handled correctly" time="0.001">
+    </testcase>
+    <testcase classname="NestLogger warn context message is sent, handled correctly" name="NestLogger warn context message is sent, handled correctly" time="0">
+    </testcase>
+    <testcase classname="NestLogger warn only message is sent, handled correctly" name="NestLogger warn only message is sent, handled correctly" time="0">
+    </testcase>
+    <testcase classname="NestLogger fatal polarisLogProperties is sent, handled correctly" name="NestLogger fatal polarisLogProperties is sent, handled correctly" time="0.001">
+    </testcase>
+    <testcase classname="NestLogger fatal only message is sent, handled correctly" name="NestLogger fatal only message is sent, handled correctly" time="0">
+    </testcase>
+    <testcase classname="NestLogger debug polarisLogProperties is sent, handled correctly" name="NestLogger debug polarisLogProperties is sent, handled correctly" time="0.001">
+    </testcase>
+    <testcase classname="NestLogger debug context message is sent, handled correctly" name="NestLogger debug context message is sent, handled correctly" time="0">
+    </testcase>
+    <testcase classname="NestLogger debug only message is sent, handled correctly" name="NestLogger debug only message is sent, handled correctly" time="0">
+    </testcase>
+    <testcase classname="NestLogger verbose polarisLogProperties is sent, handled correctly" name="NestLogger verbose polarisLogProperties is sent, handled correctly" time="0.001">
+    </testcase>
+    <testcase classname="NestLogger verbose context message is sent, handled correctly" name="NestLogger verbose context message is sent, handled correctly" time="0">
+    </testcase>
+    <testcase classname="NestLogger verbose only message is sent, handled correctly" name="NestLogger verbose only message is sent, handled correctly" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
