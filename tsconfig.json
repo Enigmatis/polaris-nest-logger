@@ -6,7 +6,8 @@
     "sourceRoot": "src",
     "outDir": "dist",
     "emitDecoratorMetadata": true,
-    "experimentalDecorators": true
+    "experimentalDecorators": true,
+    "declaration": true
   },
   "exclude": [
     "node_modules"
