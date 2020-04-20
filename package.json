@@ -73,7 +73,6 @@
   },
   "peerDependencies": {
     "@nestjs/core": "^7.0.3",
-    "@enigmatis/polaris-logs": "^2.8.2",
     "@nestjs/common": "^7.0.3"
   }
 }
