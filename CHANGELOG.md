@@ -1,3 +1,11 @@
+# [1.0.0-beta.5](https://github.com/Enigmatis/polaris-nest-logger/compare/v1.0.0-beta.4...v1.0.0-beta.5) (2020-04-20)
+
+
+### Bug Fixes
+
+* add allowjs ([7816f74](https://github.com/Enigmatis/polaris-nest-logger/commit/7816f743e53556b10217f23b3660a529990ddf88))
+* remove allowjs ([7127dbe](https://github.com/Enigmatis/polaris-nest-logger/commit/7127dbe56222a8aca05894308c953218ecb10c35))
+
 # [1.0.0-beta.4](https://github.com/Enigmatis/polaris-nest-logger/compare/v1.0.0-beta.3...v1.0.0-beta.4) (2020-04-20)
 
 
