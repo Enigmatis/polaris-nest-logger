@@ -1,3 +1,10 @@
+# [1.0.0-beta.3](https://github.com/Enigmatis/polaris-nest-logger/compare/v1.0.0-beta.2...v1.0.0-beta.3) (2020-04-20)
+
+
+### Bug Fixes
+
+* add npm ignore ([35f50db](https://github.com/Enigmatis/polaris-nest-logger/commit/35f50dbbaee62732b4767cff84c4b775d3a27b88))
+
 # [1.0.0-beta.2](https://github.com/Enigmatis/polaris-nest-logger/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2020-04-20)
 
 
