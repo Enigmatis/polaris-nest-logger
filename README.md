@@ -4,6 +4,8 @@
     <img alt="npm (scoped)" src="https://img.shields.io/npm/v/@enigmatis/polaris-nest-logger">
     <img alt="npm (scoped with tag)" src="https://img.shields.io/npm/v/@enigmatis/polaris-nest-logger/beta">
     <img alt="Travis (.org) branch" src="https://img.shields.io/travis/enigmatis/polaris-nest-logger/master">
+    <a href="https://www.codacy.com/gh/Enigmatis/polaris-nest-logger?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Enigmatis/polaris-nest-logger&amp;utm_campaign=Badge_Coverage"><img src="https://api.codacy.com/project/badge/Coverage/8a6a540509f644259f675750a147a1c4"/></a>
+    <a href="https://www.codacy.com/gh/Enigmatis/polaris-nest-logger?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Enigmatis/polaris-nest-logger&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/8a6a540509f644259f675750a147a1c4"/></a>
 </p>
 
 # polaris-nest-logger
