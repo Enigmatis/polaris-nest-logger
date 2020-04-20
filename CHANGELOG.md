@@ -1,3 +1,11 @@
+# [1.0.0-beta.8](https://github.com/Enigmatis/polaris-nest-logger/compare/v1.0.0-beta.7...v1.0.0-beta.8) (2020-04-20)
+
+
+### Features
+
+* add more exports ([510d42d](https://github.com/Enigmatis/polaris-nest-logger/commit/510d42d792f4e859d54c896364ce64dd646432b6))
+* add more exports ([8251da7](https://github.com/Enigmatis/polaris-nest-logger/commit/8251da77e67c47b83d75664e06da824f7526f628))
+
 # [1.0.0-beta.7](https://github.com/Enigmatis/polaris-nest-logger/compare/v1.0.0-beta.6...v1.0.0-beta.7) (2020-04-20)
 
 
