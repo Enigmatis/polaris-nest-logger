@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Enigmatis/polaris-nest-logger/compare/v1.0.0...v1.0.1) (2020-04-22)
+
+
+### Bug Fixes
+
+* add providers to options ([ad9ad1e](https://github.com/Enigmatis/polaris-nest-logger/commit/ad9ad1e9e3a9217cdbe6e4f5554be6844921c7ea))
+
 ## [1.0.1-beta.1](https://github.com/Enigmatis/polaris-nest-logger/compare/v1.0.0...v1.0.1-beta.1) (2020-04-22)
 
 
