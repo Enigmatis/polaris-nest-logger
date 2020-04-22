@@ -1,6 +1,6 @@
 {
   "name": "@enigmatis/polaris-nest-logger",
-  "version": "1.0.0",
+  "version": "1.0.1-beta.1",
   "description": "A module that lets you create a polaris-logger dedicated to NestJs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
