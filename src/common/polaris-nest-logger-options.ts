@@ -6,7 +6,7 @@ export interface PolarisNestLoggerOptions {
     loggerConfiguration: LoggerConfiguration;
 }
 
-export interface PolarisNestLoggerAsyncOptions extends Pick<ModuleMetadata, 'imports'> {
+export interface PolarisNestLoggerAsyncOptions extends Pick<ModuleMetadata, 'imports' | 'providers'> {
     useFactory: (...args: any[]) => Promise<PolarisNestLoggerOptions> | PolarisNestLoggerOptions;
-    inject? : any[];
+    inject?: any[];
 }

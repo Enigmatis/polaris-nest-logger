@@ -19,7 +19,7 @@ export class PolarisNestLoggerModule {
     static registerAsync(options: PolarisNestLoggerAsyncOptions): DynamicModule {
         return {
             module: PolarisNestLoggerModule,
-            providers: [PolarisNestLogger, PolarisLoggerFactory, this.createConfigurationProvider(options)],
+            providers: [...options.providers, PolarisNestLogger, PolarisLoggerFactory, this.createConfigurationProvider(options)],
             imports: options.imports,
             exports: [PolarisNestLogger]
         }
